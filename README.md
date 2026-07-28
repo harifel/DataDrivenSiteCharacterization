@@ -2,7 +2,7 @@
 
 Machine learning models for site characterization from cone penetration test (CPT) data.
 
-Builds on the merged CPT database (Dataset 1: global CPT streams, Dataset 2: coupled CPT + laboratory records, Dataset 3: Geoprofile, Switzerland) described in the companion *Data in Brief* article. This repo will hold the data-loading/preprocessing pipeline and the ML models trained on that database.
+Builds on the merged CPT database (Dataset 1: global CPT streams, Dataset 2: coupled CPT + laboratory records) described in the companion *Data in Brief* article. This repo will hold the data-loading/preprocessing pipeline and the ML models trained on that database.
 
 ---
 
