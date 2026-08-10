@@ -36,6 +36,8 @@ Place the CPT database (Parquet/xlsx) in `data/` before running anything in `src
 
 > [to be added upon publication of the companion Data in Brief article]
 
+> [Felic, H., Yaz, A. and Tschuchnigg, F. (2026) ‘A Dataset for Data-Driven Soil Characterization: Cone Penetration Test Soundings and CPT-Coupled Laboratory Parameters (V1)’. Zenodo. Available at: https://doi.org/10.5281/zenodo.21793782.]
+
 ## License
 
 See `LICENSE`.
